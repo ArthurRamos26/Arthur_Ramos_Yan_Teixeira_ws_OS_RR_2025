@@ -1,2 +1,3 @@
 # Arthur_Ramos_Yan_Teixeira_ws_OS_RR_2025
-Repositório Destinado a o trabalho  sobre concorrência e recursos compartilhados 
+Repositório Destinado ao desenvoovimento de um jogo da velha para o estudo de threads parelelas e recursos compartilhados para a disciplina de Sistemas Operacionais no ano de 2025 pela Universidade FederaL de Roraima
+
