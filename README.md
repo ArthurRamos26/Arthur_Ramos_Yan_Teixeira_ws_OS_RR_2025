@@ -12,7 +12,7 @@
 - [Referências](#referências)
 - [Ferramentas e linguagens utilizadas](#ferramentas-e-linguagens-utilizadas)
 
-**Integrantes:** [Seu Nome 1](https://github.com/usuario1) e [Seu Nome 2](https://github.com/usuario2)
+**Integrantes:** [Arthur Ramos]([https://github.com/ArthurRamos26]) e [Yan Teixeira]([(https://github.com/Yan-Teixeira)])
 
 ---
 
