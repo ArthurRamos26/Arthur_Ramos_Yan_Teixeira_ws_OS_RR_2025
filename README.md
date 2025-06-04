@@ -116,3 +116,6 @@ int main() {
     free_board(board);
     return 0;
 }
+---
+📎 [Slide da Apresentação (PDF)](https://github.com/ArthurRamos26/Arthur_Ramos_Yan_Teixeira_ws_OS_RR_2025/blob/main/Jogo%20da%20Velha%20.pdf)
+
