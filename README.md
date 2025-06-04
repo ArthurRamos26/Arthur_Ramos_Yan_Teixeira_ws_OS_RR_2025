@@ -1,4 +1,4 @@
-**Repositório referente ao seminário de SO com tema Jogo da Velha implementado com threads em C**
+**Repositório referente ao seminário de SO com tema Jogo da Velha implementado com threads em C referente a disciplina de sistemas operacionais de 2025 pela UFRR **
 
 ---
 
