@@ -7,9 +7,7 @@
 - [Sumário](#sumário)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Código do Jogo da Velha com Multithreading](#código-do-jogo-da-velha-com-multithreading)
-- [Rede de Petri](#rede-de-petri)
 - [Slide da Apresentação](#slide-da-apresentação)
-- [Referências](#referências)
 - [Ferramentas e linguagens utilizadas](#ferramentas-e-linguagens-utilizadas)
 
 **Integrantes:** [Arthur Ramos]([https://github.com/ArthurRamos26]) e [Yan Teixeira]([(https://github.com/Yan-Teixeira)])
