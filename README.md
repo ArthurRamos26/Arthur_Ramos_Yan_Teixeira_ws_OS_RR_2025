@@ -26,7 +26,7 @@ O objetivo principal é demonstrar a utilização de **threads concorrentes com 
 
 ### Slide da Apresentação
 
-[Acesse o slide da apresentação aqui](https://github.com/ArthurRamos26/Arthur_Ramos_Yan_Teixeira_ws_OS_RR_2025/blob/main/Jogo%20da%20Velha%20.pdf)
+[Slide Da apresentação:](https://github.com/ArthurRamos26/Arthur_Ramos_Yan_Teixeira_ws_OS_RR_2025/blob/main/Jogo%20da%20Velha%20.pdf)
 
 ## Código do Jogo da Velha com Multithreading
 
